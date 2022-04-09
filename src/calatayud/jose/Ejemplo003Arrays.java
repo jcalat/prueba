@@ -17,7 +17,7 @@ public class Ejemplo003Arrays {
                 }
                 }
 //        for (int j = 0;j<listaNotas.length;j++ ) {
-//            System.out.println(listaNotas[j]);
+//            System.out.println(listaNotas[j])11225;
 //        }
         } while (n);
     }
