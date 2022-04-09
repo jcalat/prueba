@@ -13,7 +13,7 @@ public class Ejemplo003Arrays {
                 listaNotas[i]=listaNotas[i+1];
                 listaNotas[i+1]=temporal;
                 }else{
-                    n=true;
+                    n=false;
                 }
                 }
 //        for (int j = 0;j<listaNotas.length;j++ ) {
